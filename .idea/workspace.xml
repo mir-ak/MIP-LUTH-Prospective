@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d11f8e30-b6cf-48e5-9d00-3fb45a1a0b7d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../panolens/audio/mis2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../panolens/audio/oiseaux.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../panolens/audio/vagues.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../panolens/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../panolens/image/canard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../panolens/image/image2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../panolens/image/pano1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../panolens/image/pano2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../panolens/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../panolens/js/panolens.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../panolens/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../panolens/js/three.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../panolens/video/poisson.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../panolens/video/video2.mp4" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1lLM3yGucWgdXTIvS2bcGncOHEi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d11f8e30-b6cf-48e5-9d00-3fb45a1a0b7d" name="Default Changelist" comment="" />
+      <created>1607371726564</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607371726564</updated>
+      <workItem from="1607371729252" duration="2004000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

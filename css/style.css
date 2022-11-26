@@ -1,0 +1,108 @@
+#blocker {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.5);
+}
+
+#instructions {
+    width: 100%;
+    height: 100%;
+    
+    display: -webkit-box;
+    display: -moz-box;
+    display: box;
+    
+    -webkit-box-orient: horizontal;
+    -moz-box-orient: horizontal;
+    box-orient: horizontal;
+
+    -webkit-box-pack: center;
+    -moz-box-pack: center;
+    box-pack: center;
+
+    -webkit-box-align: center;
+    -moz-box-align: center;
+    box-align: center;
+
+    color: #ffffff;
+    text-align: center;
+    font-family: Arial;
+    font-size: 14px;
+    line-height: 24px;
+
+    cursor: pointer;
+}
+
+#menu{
+    position: absolute;
+    left: 45%;
+    bottom: 1%;
+}
+.Selected{
+    border-bottom: 8px solid #ff0000;
+    margin-bottom: 5px;
+}
+
+#image1 {
+    position: fixed;
+    object-position: center center;
+    left: 850px;
+    bottom: 55px;
+    width: 58px;
+    height: 58px;
+    background: url("../image/cube.png")center no-repeat;
+    background-size: 55px 58px; 
+}
+
+#image2 {
+    position: fixed;
+    left: 910px;
+    bottom: 55px;
+    width: 58px;
+    height: 58px;
+    background: url("../image/hache.png") center no-repeat;
+    background-size: 50px 58px;
+}
+
+#crosshair {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -4px;
+    margin-left: -4px;
+    width: auto;
+    height: auto;
+    z-index: 1;
+}
+
+.colorpick{
+    background-color: rgba(0,0,0,0.5);
+    position: absolute;
+    left: 44%;
+    bottom: 40%;
+}
+
+#colorPicker{
+    position: absolute;
+    top: 210px;
+    left: 10px;
+    opacity: 0;
+}
+
+.colorText{
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    border-bottom: 3px solid #ff0000;
+    margin-bottom: 160px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 5px;
+}
+
+#stopColor{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0);
+}

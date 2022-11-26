@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Mincraft</title>
+    <link type="text/css" rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <div id="blocker">
+      <div id="instructions">
+        <span style="font-size: 36px">Click to play</span>
+        <br /><br />
+        Move: WASD<br />
+        Jump: SPACE<br />
+        Look: MOUSE<br />
+        Place Word: Selected Cube LEFT MOUSE<br />
+        Change Color Words : Shift <br />
+        Menu and Controls: ESC
+      </div>
+    </div>
+
+    <div id="crosshair">
+      <img src="image/crosshair.png" />
+    </div>
+
+    <div id="stopColor"></div>
+    <div id="ToolColor" class="colorpick">
+      <h1 class="colorText">Select color!</h1>
+      <input
+        id="ChosenColor"
+        onchange="updateColor(this.jscolor)"
+        class="jscolor {position:'top', closable:true, shadow:false, borderWidth:0, backgroundColor:'transparent'}"
+        value="ab2567"
+      />
+    </div>
+    <div id="menu">
+      <div id="image1" class="Selected"></div>
+      <div id="image2"></div>
+    </div>
+    <script src="js/three.min.js"></script>
+    <script src="js/PointerLockControls.js"></script>
+    <script src="https://rawgit.com/jeromeetienne/threex.domevents/master/threex.domevents.js"></script>
+    <script src="PapaParse-5.0.2/papaparse.js"></script>
+    <script src="js/jscolor.js"></script>
+    <script src="js/main.js"></script>
+  </body>
+</html>
